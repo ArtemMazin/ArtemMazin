@@ -2,7 +2,7 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [![codewars](https://www.codewars.com/users/ArtemMazin/badges/micro)](https://www.codewars.com/users/ArtemMazin)  
 Изучаю *JavaScript* в Яндекс.Практикуме  
-Вы межете посетить мой [сайт](www.artem-mazin.online)
+Вы межете посетить мой [сайт](https://artem-mazin.online/)
 -  -  -
 
 
