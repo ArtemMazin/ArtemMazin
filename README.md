@@ -1,11 +1,49 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=F661BEF3&background=2A2836&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&multiline=true&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=680&height=70&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%90%D1%80%D1%82%D0%B5%D0%BC;%D0%AF+%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA)](https://git.io/typing-svg)
+<div>
+  <div id="header" >
+    <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="250" />
+  </div>
+  <h3>
+    Привет
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>
+    Меня зовут Артем
+  </h3>
+  
+  <hr width="690px">
+  
+  <h3>:man_technologist: Обо мне :</h3>
+  <ul> 
+    <li>:rocket: начинающий веб-разработчик</li>
+    <li>:man_student: изучаю JavaScript в Яндекс.Практикуме</li>
+    <li>:briefcase: имею опыт в b2b продажах более 10 лет</li>
+    <li>:computer: вы можете посетить мой <a href="https://artem-mazin.online/" target="blank">сайт</a></li>
+  </ul>
+</div>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [![codewars](https://www.codewars.com/users/ArtemMazin/badges/micro)](https://www.codewars.com/users/ArtemMazin)  
-Изучаю *JavaScript* в Яндекс.Практикуме  
-Вы можете посетить мой [сайт](https://artem-mazin.online/)
--  -  -
+<hr width="690px">
 
+<h3>:hammer_and_wrench: Ключевые навыки:</h3>
+<div >
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/><br>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtemMazin&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArtemMazin&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArtemMazin&theme=dracula)
+<hr width="690px">
+
+<h3>:bar_chart: Статистика:</h3>
+<div>
+  <img src="https://streak-stats.demolab.com/?user=ArtemMazin&theme=default)](https://git.io/streak-stats" height="150px"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtemMazin&theme=default" width="685px"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArtemMazin&theme=default"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArtemMazin&theme=default"/>
+</div>
