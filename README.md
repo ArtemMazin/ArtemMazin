@@ -1,11 +1,12 @@
 <div>
-  <div id="header" >
-    <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="250" />
+  <div id="header">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&weight=600&size=52&pause=1000&color=481910D9&background=FC7C5E&center=true&vCenter=true&width=690&height=120&lines=%3CHello%2C+world!%3E" alt="Typing SVG" /></a>
   </div>
+
   <h3>
     Привет
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>
-    Меня зовут Артем
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /><br>
+    Меня зовут Артём.
   </h3>
   
   <hr width="690px">
